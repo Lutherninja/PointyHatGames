@@ -10,18 +10,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+              <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
               <folding>
-                <marker date="1565715299848" expanded="false" signature="6:110" ph="..." />
-                <marker date="1565715299848" expanded="true" signature="158:800" ph="{...}" />
-                <marker date="1565715299848" expanded="true" signature="369:439" ph="{...}" />
-                <marker date="1565715299848" expanded="true" signature="497:798" ph="{...}" />
-                <marker date="1565715299848" expanded="true" signature="530:688" ph="{...}" />
+                <marker date="1566572930211" expanded="false" signature="6:110" ph="..." />
+                <marker date="1566572930211" expanded="true" signature="158:800" ph="{...}" />
+                <marker date="1566572930211" expanded="true" signature="369:439" ph="{...}" />
+                <marker date="1566572930211" expanded="true" signature="497:798" ph="{...}" />
+                <marker date="1566572930211" expanded="true" signature="530:688" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rotate.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <marker date="1567040026376" expanded="false" signature="6:78" ph="..." />
+                <marker date="1567040026376" expanded="true" signature="115:289" ph="{...}" />
+                <marker date="1567040026376" expanded="true" signature="187:208" ph="{...}" />
+                <marker date="1567040026376" expanded="true" signature="266:287" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,7 +48,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,11 +122,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565714245064</updated>
       <workItem from="1565714258232" duration="2029000" />
+      <workItem from="1567040855163" duration="474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2029000" />
+    <option name="totallyTimeSpent" value="2503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -125,26 +142,26 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -157,11 +174,38 @@
         <state relative-caret-position="493">
           <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding>
-            <marker date="1565715299848" expanded="false" signature="6:110" ph="..." />
-            <marker date="1565715299848" expanded="true" signature="158:800" ph="{...}" />
-            <marker date="1565715299848" expanded="true" signature="369:439" ph="{...}" />
-            <marker date="1565715299848" expanded="true" signature="497:798" ph="{...}" />
-            <marker date="1565715299848" expanded="true" signature="530:688" ph="{...}" />
+            <marker date="1566572930211" expanded="false" signature="6:110" ph="..." />
+            <marker date="1566572930211" expanded="true" signature="158:800" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="369:439" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="497:798" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="530:688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <marker date="1566572930211" expanded="false" signature="6:110" ph="..." />
+            <marker date="1566572930211" expanded="true" signature="158:800" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="369:439" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="497:798" ph="{...}" />
+            <marker date="1566572930211" expanded="true" signature="530:688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1567040026376" expanded="false" signature="6:78" ph="..." />
+            <marker date="1567040026376" expanded="true" signature="115:289" ph="{...}" />
+            <marker date="1567040026376" expanded="true" signature="187:208" ph="{...}" />
+            <marker date="1567040026376" expanded="true" signature="266:287" ph="{...}" />
           </folding>
         </state>
       </provider>
