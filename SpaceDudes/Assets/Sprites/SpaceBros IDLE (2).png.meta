@@ -156,10 +156,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_0
       rect:
         serializedVersion: 2
-        x: 351
-        y: 3338
-        width: 462
-        height: 867
+        x: 605
+        y: 3884
+        width: 791
+        height: 1484
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,7 +167,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c7f8c112ecb3564f98b467e622c1fe1
+      spriteID: b62e22f1c48495942aade41d531794e9
       vertices: []
       indices: 
       edges: []
@@ -176,10 +176,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_1
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 3338
-        width: 462
-        height: 850
+        x: 2462
+        y: 3884
+        width: 789
+        height: 1454
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,7 +187,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df964a78dfecc5745bd344a4c9391fa5
+      spriteID: 6283aff43854b5c4f8a2e0fb61d24fd4
       vertices: []
       indices: 
       edges: []
@@ -196,10 +196,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_2
       rect:
         serializedVersion: 2
-        x: 2511
-        y: 3338
-        width: 462
-        height: 850
+        x: 605
+        y: 2027
+        width: 791
+        height: 1457
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,7 +207,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71764cf597f4a01488e27b219d748942
+      spriteID: 7e16e467bd1f5024a90586bf6b6c7564
       vertices: []
       indices: 
       edges: []
@@ -216,10 +216,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_3
       rect:
         serializedVersion: 2
-        x: 3591
-        y: 3338
-        width: 462
-        height: 850
+        x: 2462
+        y: 2027
+        width: 789
+        height: 1457
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,7 +227,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63e450841b92df44ca348d7d7f54fd92
+      spriteID: c9453a613ba23d74ab92a64fe0cd88a6
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_4
       rect:
         serializedVersion: 2
-        x: 351
-        y: 2258
-        width: 462
-        height: 850
+        x: 605
+        y: 170
+        width: 791
+        height: 1457
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,7 +247,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa170bb413ef73b45a0851f4339f143f
+      spriteID: 4a44d5a9a1b323341ae0e28be7d9f237
       vertices: []
       indices: 
       edges: []
@@ -256,10 +256,10 @@ TextureImporter:
       name: SpaceBros IDLE (2)_5
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 2258
-        width: 462
-        height: 867
+        x: 2462
+        y: 170
+        width: 789
+        height: 1487
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,167 +267,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e265fbc07eea542ab90de444d81364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_6
-      rect:
-        serializedVersion: 2
-        x: 2478
-        y: 2258
-        width: 495
-        height: 867
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a593ce7900738246b3facf800dd42ef
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_7
-      rect:
-        serializedVersion: 2
-        x: 3591
-        y: 2258
-        width: 462
-        height: 884
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6bbc306369b2609468473cdc9787582f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_8
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 1280
-        width: 748
-        height: 782
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de5ae9d53b6392d458834dcd3aa2ff5e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_9
-      rect:
-        serializedVersion: 2
-        x: 1347
-        y: 1178
-        width: 546
-        height: 850
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f3edabf92feb4d4ab307163e4168b8e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_10
-      rect:
-        serializedVersion: 2
-        x: 2511
-        y: 1178
-        width: 462
-        height: 867
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2d797e622b85e14fa246d2494e015a5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_11
-      rect:
-        serializedVersion: 2
-        x: 3591
-        y: 1178
-        width: 462
-        height: 884
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cfb0baa5779e5a46a3fea69b6efd33a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_12
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 149
-        width: 715
-        height: 833
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b5e42a4f65484c4ea702b18c3088350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceBros IDLE (2)_13
-      rect:
-        serializedVersion: 2
-        x: 1347
-        y: 98
-        width: 546
-        height: 850
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 871cfc6edf7ac6143a863ef097861f20
+      spriteID: 2833759cdcf77bf4ea812dbfeb7513f7
       vertices: []
       indices: 
       edges: []
