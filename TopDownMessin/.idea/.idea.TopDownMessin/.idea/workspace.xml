@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf6f1da-e7fc-4e6a-af63-d816982d8996" name="Default Changelist" comment="" />
@@ -13,14 +13,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/SwordAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/OnTriggerWIthPLayerEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/SetTransform.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/OnTriggerWIthPlayerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/SetTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" />
       </list>
     </option>
@@ -72,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570553178643</updated>
       <workItem from="1570553179988" duration="4270000" />
+      <workItem from="1570727457064" duration="7992000" />
     </task>
     <servers />
   </component>
@@ -82,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
