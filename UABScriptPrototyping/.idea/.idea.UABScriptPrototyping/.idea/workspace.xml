@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf6f1da-e7fc-4e6a-af63-d816982d8996" name="Default Changelist" comment="" />
+    <list default="true" id="5930a162-f09e-4edc-8f61-986cdc46b605" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,27 +12,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turrett/BaseProjectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/SwordAttack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/OnTriggerWIthPLayerEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turrett/TrackingSystem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turrett/Shooting.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turrett/NormalProjectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/SetTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/OnTriggerWIthPlayerEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/SetTransform.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Medicine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchID.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Rvgr3jeULk7zMnIrTN1hLeyFOD" />
+  <component name="ProjectId" id="1TX4yJHaa2Fh5pPMMyARrHTVNs2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -73,15 +68,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4cf6f1da-e7fc-4e6a-af63-d816982d8996" name="Default Changelist" comment="" />
-      <created>1570553178643</created>
+      <changelist id="5930a162-f09e-4edc-8f61-986cdc46b605" name="Default Changelist" comment="" />
+      <created>1573593358989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570553178643</updated>
-      <workItem from="1570553179988" duration="4270000" />
-      <workItem from="1570727457064" duration="9497000" />
-      <workItem from="1572361734951" duration="867000" />
-      <workItem from="1572362619904" duration="632000" />
+      <updated>1573593358989</updated>
+      <workItem from="1573593363954" duration="1851000" />
     </task>
     <servers />
   </component>
@@ -92,9 +84,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -102,10 +92,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="497" y="195" width="672" height="678" key="search.everywhere.popup" />
-    <state x="497" y="195" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

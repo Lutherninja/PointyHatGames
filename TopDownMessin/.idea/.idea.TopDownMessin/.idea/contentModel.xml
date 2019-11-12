@@ -34,6 +34,14 @@
             <e p="PickUpObject.cs" t="Include" />
             <e p="SetTransform.cs" t="Include" />
           </e>
+          <e p="Turrett" t="Include">
+            <e p="BaseProjectile.cs" t="Include" />
+            <e p="BeamProjectile.cs" t="Include" />
+            <e p="NormalProjectile.cs" t="Include" />
+            <e p="Shooting.cs" t="Include" />
+            <e p="TrackingSystem.cs" t="Include" />
+            <e p="TurretAI.cs" t="Include" />
+          </e>
           <e p="Weapons" t="Include">
             <e p="Boomerang.cs" t="Include" />
             <e p="BoomerangStart.cs" t="Include" />
