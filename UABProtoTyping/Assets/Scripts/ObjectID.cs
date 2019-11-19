@@ -2,5 +2,5 @@
 
 public class ObjectID : MonoBehaviour
 {
-    public NameID ID;
+    public MedID ID;
 }
