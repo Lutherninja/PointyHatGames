@@ -4,7 +4,7 @@ using UnityEngine.Events;
 
 public class MatchID : MonoBehaviour
 {
-    public UnityEvent OnMatch, NoMatch;
+   // public UnityEvent OnMatch, NoMatch;
     public int RoomID;
     public bool isPresent;
 
@@ -17,11 +17,11 @@ public class MatchID : MonoBehaviour
         {
             print("it worked");
             isPresent = true;
-            OnMatch.Invoke();
+          //  OnMatch.Invoke();
         }
         else
         {
-            NoMatch.Invoke();
+          //  NoMatch.Invoke();
         }
     }
 }
